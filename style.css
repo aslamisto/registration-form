@@ -1,0 +1,24 @@
+body, html {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    background-color: rgb(190, 172, 176), 132, 137);
+
+  }
+
+  .container{
+    max-width: 700px;
+    width: 100%;
+    background-color: rgba(119, 29, 78, 0.397);
+    padding: 25px 30px;
+    border-radius: 8px;
+    box-shadow: 0 5px  10px rgb(29, 28, 28); 
+  }
+  
+  .container .tatle{
+    font-size: 25px;
+    font-weight: bold;
+    position: relative;
+  }
